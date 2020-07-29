@@ -6,7 +6,15 @@ h1 {
     font-size: 50px;
     font-weight: 600;
     color: #192b59;
-a { text-decoration: none;} 
+
+}
+a {
+    text-decoration: none;
+}
+h2 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #192b59;
 }
 .nav {
     font-size: 12px;
@@ -41,4 +49,3 @@ p {
     color: #7581a1;
     font-weight: 400;
 }
-7581a1
