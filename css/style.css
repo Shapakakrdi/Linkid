@@ -21,13 +21,47 @@ h2 {
     color: #6e7ea9;
     font-weight: 700;
     text-transform: uppercase;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+
 }
-.btn-free {
-    color: brown;
-    font-weight: 400;
-    background-color: darkblue;
+.btn-primary {
+    
+    color: #ffffff ;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 2.5px;
+    text-transform: uppercase;
+    padding: 20px 40px;
+    border-radius: 30px;
+    background-color: #1085e4;
+
     
 }
+.btn-secondary {
+    
+    color: #7e8bae ;
+    font-size: 12px;
+    letter-spacing: 2.5px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 20px 40px;
+    border-radius: 30px;
+    background-color: #cbdbe8;
+
+    
+}
+.btn-free {
+    font-weight: 400;
+    padding: 20px 56px;
+    letter-spacing: 1.7px;
+    
+}
+.btn-group a + a {
+    margin-left: 15px;     
+}
+
 h3 {
     font-size: 40px;
     color: #192b59;
