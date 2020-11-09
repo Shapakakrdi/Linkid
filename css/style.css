@@ -1,85 +1,30 @@
-body {
-    font-family: 'Open Sans', sans-serif;
-    text-align: left;}
-
-h1 {
-    font-size: 50px;
-    font-weight: 600;
-    color: #192b59;
-
-}
+body { font-family: 'Open Sans', sans-serif;  }
 a {
     text-decoration: none;
 }
-h2 {
-    font-size: 40px;
-    font-weight: 700;
+h1 {
+    font-size: 80px;
+    font-weight: 600;
     color: #192b59;
 }
 .nav {
     font-size: 12px;
+    font-weight: 700;
     color: #6e7ea9;
-    font-weight: 700;
     text-transform: uppercase;
-    list-style-type: none;
-    margin: 0px;
-    padding: 0px;
-
-}
-.btn-primary {
-    
-    color: #ffffff ;
-    font-size: 12px;
-    font-weight: 700;
-    letter-spacing: 2.5px;
-    text-transform: uppercase;
-    padding: 20px 40px;
-    border-radius: 30px;
-    background-color: #1085e4;
-
-    
-}
-.btn-secondary {
-    
-    color: #7e8bae ;
-    font-size: 12px;
-    letter-spacing: 2.5px;
-    font-weight: 700;
-    text-transform: uppercase;
-    padding: 20px 40px;
-    border-radius: 30px;
-    background-color: #cbdbe8;
-
-    
 }
 .btn-free {
-    font-weight: 400;
-    padding: 20px 56px;
-    letter-spacing: 1.7px;
-    
-}
-.btn-group a + a {
-    margin-left: 15px;     
-}
-
-h3 {
-    font-size: 40px;
-    color: #192b59;
-    font-weight: 400;
-}
-.fetur {
+    color: #ffffff;
     font-size: 12px;
     font-weight: 400;
-    color: #1085e4;
-    text-transform: uppercase;
+    background-color: #1085e4;
 }
-.read {
+.grid h2 {
+ font-size: 40px;
+ font-weight: 700;
+ color: #192b59;
+}
+.grid h2 span {
     font-size: 14px;
-    font-weight: 400;
-    color: #1085e4
-}
-p {
-    font-size: 16px;
-    color: #7581a1;
-    font-weight: 400;
+    color: #1085e4;
 }
