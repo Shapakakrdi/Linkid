@@ -7,11 +7,21 @@ h1 {
     font-weight: 600;
     color: #192b59;
 }
-.nav {
+.nav1 {
+    display: inline;
+    list-style: none;
+    padding: 5px;
     font-size: 12px;
     font-weight: 700;
     color: #6e7ea9;
     text-transform: uppercase;
+    
+}
+li.nav2 {
+
+    overflow: hidden;
+    display: block;
+    margin-right: 10px;
 }
 .btn-free {
     color: #ffffff;
